@@ -1,0 +1,7 @@
+# Results of escape mutant selections.
+# `escape_metric` can be:
+#   - mutation_escape: default, mutation-level escape
+#   - site_escape: total escape at site
+#   - max_at_site_escape: max escape of any mutation at site
+#   - mean_at_site_escape: mean escape of all mutations with measurements at site
+

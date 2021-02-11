@@ -1,0 +1,34 @@
+# Information about outputting B-factor re-assigned PDBs and dms-view inputs
+#
+# Top-level keys are PDBs
+# Under each PDB key, specify:
+#  pdbfile -> path to file containing PDB
+#  chains -> list of chain(s) to which we map colors, typically RBD chains
+#  conditions -> conditions (antibodies / sera) for which we write this PDB,
+#                set to ALL  for all conditions
+
+# 6m0j is ACE2 bound RBD
+6m0j:
+  pdbfile: data/pdbs/6M0J.pdb
+  chains:
+    - E
+  conditions: ALL
+
+# 7C01 is CB6 bound to RBD
+7c01:
+  pdbfile: data/pdbs/7c01_single.pdb
+  chains:
+    - A
+  conditions:
+    - LY-CoV555_400
+    - CB6_400
+    - LY-CoV555+LY-CoV016_400
+
+7kmg: #LY-CoV555 bound to RBD
+  pdbfile: data/pdbs/7kmg_single.pdb
+  chains:
+    - C
+  conditions:
+    - LY-CoV555_400
+    - CB6_400
+    - LY-CoV555+LY-CoV016_400
