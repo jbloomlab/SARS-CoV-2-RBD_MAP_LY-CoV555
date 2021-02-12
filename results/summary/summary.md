@@ -49,3 +49,5 @@ Here is the Markdown output of each notebook in the workflow:
 15. [Make supplementary data files](make_supp_data.md),
     which are [here](../supp_data). These include
     `dms-view` input files.
+
+16. Make custom plots for this project that fall out of the core pipeline, summarzied in [this notebook](custom-plots_LY555.md)
