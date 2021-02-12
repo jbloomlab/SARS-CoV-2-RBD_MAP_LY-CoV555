@@ -33,3 +33,5 @@ results/supp_data/*
 !results/supp_data/*.csv
 
 data/GISAID/spikeprot*.fasta
+
+!docs/_config.yml
