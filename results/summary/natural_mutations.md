@@ -286,180 +286,180 @@ display(HTML(sitecounts_strong_sites.head(n=20).to_html(index=False)))
       <td>sensitive_max_mut</td>
       <td>501</td>
       <td>N</td>
-      <td>1.4410</td>
-      <td>38403</td>
-      <td>N501Y (37896), N501T (492), N501S (10), N501I (4), N501H (1)</td>
+      <td>1.441</td>
+      <td>156434</td>
+      <td>N501Y (154979), N501T (1426), N501S (16), N501I (11), N501H (2)</td>
     </tr>
     <tr>
       <td>CB6_400</td>
       <td>sensitive</td>
       <td>501</td>
       <td>N</td>
-      <td>1.4410</td>
-      <td>38403</td>
-      <td>N501Y (37896), N501T (492), N501S (10), N501I (4), N501H (1)</td>
+      <td>1.441</td>
+      <td>156434</td>
+      <td>N501Y (154979), N501T (1426), N501S (16), N501I (11), N501H (2)</td>
     </tr>
     <tr>
       <td>LY-CoV555_400</td>
       <td>sensitive</td>
       <td>452</td>
       <td>L</td>
-      <td>4.0150</td>
-      <td>1583</td>
-      <td>L452R (1503), L452M (69), L452Q (10), L452P (1)</td>
+      <td>4.015</td>
+      <td>14514</td>
+      <td>L452R (14285), L452Q (123), L452M (106)</td>
     </tr>
     <tr>
       <td>LY-CoV555_400</td>
       <td>default</td>
       <td>452</td>
       <td>L</td>
-      <td>4.0150</td>
-      <td>1583</td>
-      <td>L452R (1503), L452M (69), L452Q (10), L452P (1)</td>
+      <td>4.015</td>
+      <td>14514</td>
+      <td>L452R (14285), L452Q (123), L452M (106)</td>
     </tr>
     <tr>
       <td>LY-CoV555_400</td>
       <td>sensitive_max_mut</td>
       <td>452</td>
       <td>L</td>
-      <td>4.0150</td>
-      <td>1583</td>
-      <td>L452R (1503), L452M (69), L452Q (10), L452P (1)</td>
+      <td>4.015</td>
+      <td>14514</td>
+      <td>L452R (14285), L452Q (123), L452M (106)</td>
+    </tr>
+    <tr>
+      <td>LY-CoV555_400</td>
+      <td>default</td>
+      <td>484</td>
+      <td>E</td>
+      <td>16.810</td>
+      <td>7850</td>
+      <td>E484K (7651), E484Q (137), E484G (24), E484A (22), E484D (12), E484R (3), E484V (1)</td>
     </tr>
     <tr>
       <td>LY-CoV555_400</td>
       <td>sensitive_max_mut</td>
       <td>484</td>
       <td>E</td>
-      <td>16.8100</td>
-      <td>1234</td>
-      <td>E484K (1134), E484Q (65), E484A (12), E484G (11), E484D (8), E484R (3), E484V (1)</td>
+      <td>16.810</td>
+      <td>7850</td>
+      <td>E484K (7651), E484Q (137), E484G (24), E484A (22), E484D (12), E484R (3), E484V (1)</td>
+    </tr>
+    <tr>
+      <td>LY-CoV555+LY-CoV016_400</td>
+      <td>default</td>
+      <td>484</td>
+      <td>E</td>
+      <td>1.597</td>
+      <td>7850</td>
+      <td>E484K (7651), E484Q (137), E484G (24), E484A (22), E484D (12), E484R (3), E484V (1)</td>
     </tr>
     <tr>
       <td>LY-CoV555+LY-CoV016_400</td>
       <td>sensitive</td>
       <td>484</td>
       <td>E</td>
-      <td>1.5970</td>
-      <td>1234</td>
-      <td>E484K (1134), E484Q (65), E484A (12), E484G (11), E484D (8), E484R (3), E484V (1)</td>
-    </tr>
-    <tr>
-      <td>LY-CoV555+LY-CoV016_400</td>
-      <td>default</td>
-      <td>484</td>
-      <td>E</td>
-      <td>1.5970</td>
-      <td>1234</td>
-      <td>E484K (1134), E484Q (65), E484A (12), E484G (11), E484D (8), E484R (3), E484V (1)</td>
-    </tr>
-    <tr>
-      <td>LY-CoV555_400</td>
-      <td>default</td>
-      <td>484</td>
-      <td>E</td>
-      <td>16.8100</td>
-      <td>1234</td>
-      <td>E484K (1134), E484Q (65), E484A (12), E484G (11), E484D (8), E484R (3), E484V (1)</td>
+      <td>1.597</td>
+      <td>7850</td>
+      <td>E484K (7651), E484Q (137), E484G (24), E484A (22), E484D (12), E484R (3), E484V (1)</td>
     </tr>
     <tr>
       <td>LY-CoV555_400</td>
       <td>sensitive</td>
       <td>484</td>
       <td>E</td>
-      <td>16.8100</td>
-      <td>1234</td>
-      <td>E484K (1134), E484Q (65), E484A (12), E484G (11), E484D (8), E484R (3), E484V (1)</td>
+      <td>16.810</td>
+      <td>7850</td>
+      <td>E484K (7651), E484Q (137), E484G (24), E484A (22), E484D (12), E484R (3), E484V (1)</td>
     </tr>
     <tr>
       <td>LY-CoV555+LY-CoV016_400</td>
       <td>sensitive_max_mut</td>
       <td>484</td>
       <td>E</td>
-      <td>1.5970</td>
-      <td>1234</td>
-      <td>E484K (1134), E484Q (65), E484A (12), E484G (11), E484D (8), E484R (3), E484V (1)</td>
+      <td>1.597</td>
+      <td>7850</td>
+      <td>E484K (7651), E484Q (137), E484G (24), E484A (22), E484D (12), E484R (3), E484V (1)</td>
     </tr>
     <tr>
       <td>CB6_400</td>
       <td>default</td>
       <td>417</td>
       <td>K</td>
-      <td>17.8300</td>
-      <td>666</td>
-      <td>K417N (627), K417T (35), K417R (3), K417E (1)</td>
+      <td>17.830</td>
+      <td>3647</td>
+      <td>K417N (3010), K417T (632), K417R (4), K417E (1)</td>
+    </tr>
+    <tr>
+      <td>CB6_400</td>
+      <td>sensitive_max_mut</td>
+      <td>417</td>
+      <td>K</td>
+      <td>17.830</td>
+      <td>3647</td>
+      <td>K417N (3010), K417T (632), K417R (4), K417E (1)</td>
     </tr>
     <tr>
       <td>CB6_400</td>
       <td>sensitive</td>
       <td>417</td>
       <td>K</td>
-      <td>17.8300</td>
-      <td>666</td>
-      <td>K417N (627), K417T (35), K417R (3), K417E (1)</td>
+      <td>17.830</td>
+      <td>3647</td>
+      <td>K417N (3010), K417T (632), K417R (4), K417E (1)</td>
     </tr>
     <tr>
-      <td>CB6_400</td>
-      <td>sensitive_max_mut</td>
-      <td>417</td>
-      <td>K</td>
-      <td>17.8300</td>
-      <td>666</td>
-      <td>K417N (627), K417T (35), K417R (3), K417E (1)</td>
+      <td>LY-CoV555_400</td>
+      <td>default</td>
+      <td>494</td>
+      <td>S</td>
+      <td>5.502</td>
+      <td>2119</td>
+      <td>S494P (2067), S494L (38), S494A (8), S494T (3), S494R (3)</td>
     </tr>
     <tr>
       <td>LY-CoV555_400</td>
       <td>sensitive_max_mut</td>
       <td>494</td>
       <td>S</td>
-      <td>5.5020</td>
-      <td>603</td>
-      <td>S494P (573), S494L (22), S494A (8)</td>
+      <td>5.502</td>
+      <td>2119</td>
+      <td>S494P (2067), S494L (38), S494A (8), S494T (3), S494R (3)</td>
     </tr>
     <tr>
       <td>LY-CoV555_400</td>
       <td>sensitive</td>
       <td>494</td>
       <td>S</td>
-      <td>5.5020</td>
-      <td>603</td>
-      <td>S494P (573), S494L (22), S494A (8)</td>
+      <td>5.502</td>
+      <td>2119</td>
+      <td>S494P (2067), S494L (38), S494A (8), S494R (3), S494T (3)</td>
+    </tr>
+    <tr>
+      <td>LY-CoV555_400</td>
+      <td>sensitive</td>
+      <td>490</td>
+      <td>F</td>
+      <td>10.200</td>
+      <td>367</td>
+      <td>F490S (279), F490L (75), F490V (8), F490Y (5)</td>
     </tr>
     <tr>
       <td>LY-CoV555_400</td>
       <td>default</td>
-      <td>494</td>
-      <td>S</td>
-      <td>5.5020</td>
-      <td>603</td>
-      <td>S494P (573), S494L (22), S494A (8)</td>
-    </tr>
-    <tr>
-      <td>CB6_400</td>
-      <td>sensitive_max_mut</td>
-      <td>459</td>
-      <td>S</td>
-      <td>0.6527</td>
-      <td>197</td>
-      <td>S459F (137), S459Y (59), S459P (1)</td>
-    </tr>
-    <tr>
-      <td>LY-CoV555_400</td>
-      <td>default</td>
-      <td>483</td>
-      <td>V</td>
-      <td>5.6670</td>
-      <td>168</td>
-      <td>V483F (78), V483A (71), V483I (12), V483L (7)</td>
+      <td>490</td>
+      <td>F</td>
+      <td>10.200</td>
+      <td>367</td>
+      <td>F490S (279), F490L (75), F490V (8), F490Y (5)</td>
     </tr>
     <tr>
       <td>LY-CoV555_400</td>
       <td>sensitive_max_mut</td>
-      <td>483</td>
-      <td>V</td>
-      <td>5.6670</td>
-      <td>168</td>
-      <td>V483F (78), V483A (71), V483I (12), V483L (7)</td>
+      <td>490</td>
+      <td>F</td>
+      <td>10.200</td>
+      <td>367</td>
+      <td>F490S (279), F490L (75), F490V (8), F490Y (5)</td>
     </tr>
   </tbody>
 </table>
@@ -600,7 +600,7 @@ display(HTML(escape_and_freq.head().to_html()))
       <td>0.01372</td>
       <td>0.002515</td>
       <td>0.0</td>
-      <td>0.000015</td>
+      <td>0.000029</td>
       <td>N331A</td>
     </tr>
     <tr>
@@ -614,7 +614,7 @@ display(HTML(escape_and_freq.head().to_html()))
       <td>0.01372</td>
       <td>0.002515</td>
       <td>0.0</td>
-      <td>0.000015</td>
+      <td>0.000029</td>
       <td>N331D</td>
     </tr>
     <tr>
@@ -628,7 +628,7 @@ display(HTML(escape_and_freq.head().to_html()))
       <td>0.01372</td>
       <td>0.002515</td>
       <td>0.0</td>
-      <td>0.000015</td>
+      <td>0.000029</td>
       <td>N331E</td>
     </tr>
     <tr>
@@ -642,7 +642,7 @@ display(HTML(escape_and_freq.head().to_html()))
       <td>0.01372</td>
       <td>0.002515</td>
       <td>0.0</td>
-      <td>0.000015</td>
+      <td>0.000029</td>
       <td>N331F</td>
     </tr>
     <tr>
@@ -656,7 +656,7 @@ display(HTML(escape_and_freq.head().to_html()))
       <td>0.01372</td>
       <td>0.002515</td>
       <td>0.0</td>
-      <td>0.000015</td>
+      <td>0.000029</td>
       <td>N331G</td>
     </tr>
   </tbody>
