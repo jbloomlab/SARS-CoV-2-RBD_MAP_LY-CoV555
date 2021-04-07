@@ -1,6 +1,6 @@
 ## Complete map of SARS-CoV-2 RBD mutations that escape the monoclonal antibody LY-CoV555 and its cocktail with LY-CoV016
 
-For experimental background, see our preprint **[here](https://www.biorxiv.org/content/10.1101/2021.02.17.431683v1)**.
+For experimental background, see our paper **[here](https://doi.org/10.1016/j.xcrm.2021.100255)**.
 
 ### What data are shown here?
 We are showing mutations to the SARS-CoV-2 RBD that escape antibody binding as measured using mutational antigenic profiling. Raw data is available [here](https://github.com/jbloomlab/SARS-CoV-2-RBD_MAP_LY-CoV555/blob/main/results/supp_data/LY_cocktail_raw_data.csv).

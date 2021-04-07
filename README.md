@@ -1,7 +1,7 @@
 # Mutational antigenic profiling of SARS-CoV-2 RBD against LY-CoV555 alone and in cocktail with LY-CoV016.
 Analysis of mutational antigenic profiling of barcoded codon variants of SARS-CoV-2 RBD.
 
-Study and analysis by Tyler Starr, [Jesse Bloom](https://research.fhcrc.org/bloom/en.html), and co-authors. For more details, see the [pre-print](https://www.biorxiv.org/content/10.1101/2021.02.17.431683v1).
+Study and analysis by Tyler Starr, [Jesse Bloom](https://research.fhcrc.org/bloom/en.html), and co-authors. For more details, see the [paper](https://doi.org/10.1016/j.xcrm.2021.100255).
 
 ## Summary of workflow and results
 For a summary of the workflow and links to key results files, [click here](results/summary/summary.md).
